@@ -202,7 +202,7 @@ section {
 }
 #inFolio {
 	background-color: var(--background);
-	a {
+	a{
 	
 		border-image: linear-gradient(to right, #f5a623, #ff6f61) 30;
 		border-bottom: 2px solid;
